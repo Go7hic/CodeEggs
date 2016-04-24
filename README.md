@@ -4,6 +4,11 @@
 一群寂寞的程序员总喜欢在代码里放点彩蛋（神注释）.把自己见过的一些网站注释里有趣的彩蛋收集于此,哪天写的无聊也在自己的代码里加上一个.还可以给自己的终端命令行里加个下面的注释装13 哦，如下图：
 ![](http://imglf1.nosdn.127.net/img/ek1oWGRUTEE1UnAydllGVDFDblBKVUQ4SlU4WkxFUEk.png?imageView&thumbnail=500x0&quality=96&stripmeta=0)
 
+具体设置步骤是：
+
+- cd /etc
+- sudo pico motd
+
 ###一:
 ```
 //
