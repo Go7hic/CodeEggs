@@ -1,6 +1,6 @@
 代码里的彩蛋（神注释）
 ========
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![Greenkeeper badge](https://badges.greenkeeper.io/dyygtfx/CodeEggs.svg)](https://greenkeeper.io/)
 
 一群寂寞的程序员总喜欢在代码里放点彩蛋（神注释）.把自己见过的一些网站注释里有趣的彩蛋收集于此,哪天写的无聊也在自己的代码里加上一个.还可以给自己的终端命令行里加个下面的注释装13 哦，如下图：
 ![](http://imglf1.nosdn.127.net/img/ek1oWGRUTEE1UnAydllGVDFDblBKVUQ4SlU4WkxFUEk.png?imageView&thumbnail=500x0&quality=96&stripmeta=0)
